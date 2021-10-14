@@ -1,0 +1,63 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+</style>
+{}
+
+header {
+    background-color: #6495ED;
+}
+header h1 a {
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    font: normal;
+    color: #faebd7;
+}
+header nav li a {
+    font: normal;
+    color: #faebd7;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header nav li a:active {
+    color: #faebd7;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header nav li a:visited {
+    color: #faebd7;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header nav li a:hover {
+    color: white;
+    text-decoration:underline;
+    list-style-type: none;
+}
+
+main {
+    background-color: #FAEBD7;
+}
+
+main article {
+    background-color: white;
+    margin: 1em;
+    padding-top: 1em;
+}
+
+
+/* SMALL SCREEN SETTINGS */
+
+@media (min-width:0) and (max-width:30)
+{
+
+
+}
+
+/* LARGE SCREEN SETTINGS */
+@media (min-width:30)
+{
+    
+}

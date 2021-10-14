@@ -1,0 +1,35 @@
+
+main.css
+  2:1   ✖  Expected empty line before rule                             rule-empty-line-before                           
+  4:45  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+  7:21  ✖  Expected "#6495ED" to be "#6495ed"                          color-hex-case                                   
+  8:16  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 12:15  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 17:3   ✖  Unexpected shorthand "font" after "font-family"             declaration-block-no-shorthand-property-overrides
+ 18:18  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 21:27  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 26:3   ✖  Unexpected shorthand "list-style" after "list-style-type"   declaration-block-no-shorthand-property-overrides
+ 28:25  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 29:3   ✖  Expected empty line before rule                             rule-empty-line-before                           
+ 29:3   ✖  Expected indentation of 0 spaces                            indentation                                      
+ 29:28  ✖  Expected newline after ","                                  selector-list-comma-newline-after                
+ 30:5   ✖  Expected indentation of 2 spaces                            indentation                                      
+ 30:20  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 31:3   ✖  Expected empty line before rule                             rule-empty-line-before                           
+ 31:3   ✖  Expected indentation of 0 spaces                            indentation                                      
+ 32:5   ✖  Expected indentation of 2 spaces                            indentation                                      
+ 33:5   ✖  Expected indentation of 2 spaces                            indentation                                      
+ 33:32  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 36:21  ✖  Unexpected unit                                             length-zero-no-unit                              
+ 40:22  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 40:24  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 41:1   ✖  Expected empty line before comment                          comment-empty-line-before                        
+ 50:24  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 55:5   ✖  Unexpected shorthand "font" after "font-family"             declaration-block-no-shorthand-property-overrides
+ 58:23  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 63:25  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 66:17  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 68:21  ✖  Expected newline after ","                                  selector-list-comma-newline-after                
+ 69:24  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before               
+ 69:26  ✖  Expected newline before "}" of a multi-line block           block-closing-brace-newline-before
+
